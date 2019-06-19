@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="OSRS" type="JarApplication" singleton="false">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/../jagexappletviewer.jar" />
+    <option name="VM_PARAMETERS" value="-Djava.search.path=out -Dcom.jagex.config=http://oldschool.runescape.com/l=en/jav_config.ws -javaagent:&quot;$PROJECT_DIR$/../RSBot.jar&quot;" />
+    <option name="PROGRAM_PARAMETERS" value="runescape" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+    <method v="2" />
+  </configuration>
+</component>
